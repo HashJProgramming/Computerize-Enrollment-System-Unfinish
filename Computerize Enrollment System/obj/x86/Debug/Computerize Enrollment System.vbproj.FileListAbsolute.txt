@@ -1,0 +1,51 @@
+C:\Users\Joshua Ambalong\Desktop\Menu\Computerize Enrollment System\Computerize Enrollment System\bin\Debug\Computerize Enrollment System.exe
+C:\Users\Joshua Ambalong\Desktop\Menu\Computerize Enrollment System\Computerize Enrollment System\bin\Debug\Computerize Enrollment System.pdb
+C:\Users\Joshua Ambalong\Desktop\Menu\Computerize Enrollment System\Computerize Enrollment System\bin\Debug\Computerize Enrollment System.xml
+C:\Users\Joshua Ambalong\Desktop\Menu\Computerize Enrollment System\Computerize Enrollment System\bin\Debug\Guna.UI.dll
+C:\Users\Joshua Ambalong\Desktop\Menu\Computerize Enrollment System\Computerize Enrollment System\obj\x86\Debug\Computerize_Enrollment_System.Form1.resources
+C:\Users\Joshua Ambalong\Desktop\Menu\Computerize Enrollment System\Computerize Enrollment System\obj\x86\Debug\Computerize_Enrollment_System.Resources.resources
+C:\Users\Joshua Ambalong\Desktop\Menu\Computerize Enrollment System\Computerize Enrollment System\obj\x86\Debug\Computerize Enrollment System.vbproj.GenerateResource.Cache
+C:\Users\Joshua Ambalong\Desktop\Menu\Computerize Enrollment System\Computerize Enrollment System\obj\x86\Debug\Computerize Enrollment System.exe
+C:\Users\Joshua Ambalong\Desktop\Menu\Computerize Enrollment System\Computerize Enrollment System\obj\x86\Debug\Computerize Enrollment System.xml
+C:\Users\Joshua Ambalong\Desktop\Menu\Computerize Enrollment System\Computerize Enrollment System\obj\x86\Debug\Computerize Enrollment System.pdb
+C:\Users\Joshua Ambalong\Desktop\Menu\Computerize Enrollment System\Computerize Enrollment System\obj\x86\Debug\Computerize_Enrollment_System.Form2.resources
+C:\Users\Joshua Ambalong\Desktop\Menu\Computerize Enrollment System\Computerize Enrollment System\obj\x86\Debug\Computerize_Enrollment_System.Form3.resources
+C:\Users\Joshua Ambalong\Desktop\Menu\Computerize Enrollment System\Computerize Enrollment System\obj\x86\Debug\Computerize_Enrollment_System.Form4.resources
+C:\Users\Joshua Ambalong\Desktop\Menu\Computerize Enrollment System\Computerize Enrollment System\obj\x86\Debug\Computerize_Enrollment_System.Form5.resources
+C:\Users\Joshua Ambalong\Desktop\Menu\Computerize Enrollment System\Computerize Enrollment System\obj\x86\Debug\Computerize_Enrollment_System.Form6.resources
+C:\Users\Joshua Ambalong\Desktop\Menu\Computerize Enrollment System\Computerize Enrollment System\obj\x86\Debug\Computerize Enrollment System.vbprojResolveAssemblyReference.cache
+F:\Menu\Computerize Enrollment System\Computerize Enrollment System\obj\x86\Debug\Computerize Enrollment System.exe
+F:\Menu\Computerize Enrollment System\Computerize Enrollment System\obj\x86\Debug\Computerize Enrollment System.xml
+F:\Menu\Computerize Enrollment System\Computerize Enrollment System\obj\x86\Debug\Computerize Enrollment System.pdb
+F:\Menu\Computerize Enrollment System\Computerize Enrollment System\bin\Debug\Computerize Enrollment System.exe
+F:\Menu\Computerize Enrollment System\Computerize Enrollment System\bin\Debug\Computerize Enrollment System.pdb
+F:\Menu\Computerize Enrollment System\Computerize Enrollment System\bin\Debug\Computerize Enrollment System.xml
+F:\Menu\Computerize Enrollment System\Computerize Enrollment System\obj\x86\Debug\Computerize Enrollment System.vbprojResolveAssemblyReference.cache
+F:\Menu\Computerize Enrollment System\Computerize Enrollment System\obj\x86\Debug\Computerize_Enrollment_System.Form1.resources
+F:\Menu\Computerize Enrollment System\Computerize Enrollment System\obj\x86\Debug\Computerize_Enrollment_System.Form2.resources
+F:\Menu\Computerize Enrollment System\Computerize Enrollment System\obj\x86\Debug\Computerize_Enrollment_System.Form3.resources
+F:\Menu\Computerize Enrollment System\Computerize Enrollment System\obj\x86\Debug\Computerize_Enrollment_System.Form4.resources
+F:\Menu\Computerize Enrollment System\Computerize Enrollment System\obj\x86\Debug\Computerize_Enrollment_System.Form5.resources
+F:\Menu\Computerize Enrollment System\Computerize Enrollment System\obj\x86\Debug\Computerize_Enrollment_System.Form6.resources
+F:\Menu\Computerize Enrollment System\Computerize Enrollment System\obj\x86\Debug\Computerize_Enrollment_System.Resources.resources
+F:\Menu\Computerize Enrollment System\Computerize Enrollment System\obj\x86\Debug\Computerize Enrollment System.vbproj.GenerateResource.Cache
+E:\Menu\Computerize Enrollment System\Computerize Enrollment System\obj\x86\Debug\Computerize Enrollment System.exe
+E:\Menu\Computerize Enrollment System\Computerize Enrollment System\obj\x86\Debug\Computerize Enrollment System.xml
+E:\Menu\Computerize Enrollment System\Computerize Enrollment System\obj\x86\Debug\Computerize Enrollment System.pdb
+E:\Visual Studio Old\Computerize Enrollment System\Computerize Enrollment System\bin\Debug\Computerize Enrollment System.exe
+E:\Visual Studio Old\Computerize Enrollment System\Computerize Enrollment System\bin\Debug\Computerize Enrollment System.pdb
+E:\Visual Studio Old\Computerize Enrollment System\Computerize Enrollment System\bin\Debug\Computerize Enrollment System.xml
+E:\Visual Studio Old\Computerize Enrollment System\Computerize Enrollment System\obj\x86\Debug\Computerize Enrollment System.vbproj.AssemblyReference.cache
+E:\Visual Studio Old\Computerize Enrollment System\Computerize Enrollment System\obj\x86\Debug\Computerize_Enrollment_System.Form1.resources
+E:\Visual Studio Old\Computerize Enrollment System\Computerize Enrollment System\obj\x86\Debug\Computerize_Enrollment_System.Form2.resources
+E:\Visual Studio Old\Computerize Enrollment System\Computerize Enrollment System\obj\x86\Debug\Computerize_Enrollment_System.Form3.resources
+E:\Visual Studio Old\Computerize Enrollment System\Computerize Enrollment System\obj\x86\Debug\Computerize_Enrollment_System.Form4.resources
+E:\Visual Studio Old\Computerize Enrollment System\Computerize Enrollment System\obj\x86\Debug\Computerize_Enrollment_System.Form5.resources
+E:\Visual Studio Old\Computerize Enrollment System\Computerize Enrollment System\obj\x86\Debug\Computerize_Enrollment_System.Form6.resources
+E:\Visual Studio Old\Computerize Enrollment System\Computerize Enrollment System\obj\x86\Debug\Computerize_Enrollment_System.Resources.resources
+E:\Visual Studio Old\Computerize Enrollment System\Computerize Enrollment System\obj\x86\Debug\Computerize Enrollment System.vbproj.GenerateResource.cache
+E:\Visual Studio Old\Computerize Enrollment System\Computerize Enrollment System\obj\x86\Debug\Computerize Enrollment System.vbproj.CoreCompileInputs.cache
+E:\Visual Studio Old\Computerize Enrollment System\Computerize Enrollment System\obj\x86\Debug\Computerize Enrollment System.vbproj.CopyComplete
+E:\Visual Studio Old\Computerize Enrollment System\Computerize Enrollment System\obj\x86\Debug\Computerize Enrollment System.exe
+E:\Visual Studio Old\Computerize Enrollment System\Computerize Enrollment System\obj\x86\Debug\Computerize Enrollment System.xml
+E:\Visual Studio Old\Computerize Enrollment System\Computerize Enrollment System\obj\x86\Debug\Computerize Enrollment System.pdb
